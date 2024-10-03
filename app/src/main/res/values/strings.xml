@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ECertificateApp</string>
+    <string name="q1">Le pattern MVC est l\'abréviation de :</string>
+    <string name="choix1">Multiple Versions Combined</string>
+    <string name="choix2">Model Vue Controller </string>
+    <string name="choix3"> Main Value Compiled</string>
+    <string name="choix4"> Mandatory Validated Controls</string>
+    <string name="q2"> La syntaxe $[x] est permise dans une JSP : </string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    <string name="suivant">Suivant</string>
+    <string name="quitter">Quitter</string>
+    <string name="reponse">Vos réponses sont :</string>
+    <string name="un">1</string>
+    <string name="deux">2</string>
+</resources>
